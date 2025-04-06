@@ -8,11 +8,10 @@
 
 Hi there! I'm Santi, a passionate developer with a love for creating elegant solutions to complex problems. I enjoy working across the full tech stack and am always exploring new technologies to expand my skillset.
 
-- 🔭 I'm currently working on: [Project Name]
-- 🌱 I'm currently learning: [Technology/Skill]
-- 💬 Ask me about: Web Development, Cloud Architecture, or DevOps
+- 🔭 I'm currently working on: My Personal Site (santigutierrezsch.com)
+- 🌱 I'm currently learning: Lua
+- 💬 Ask me about: Web Development, UI/UX, or DevOps
 - 📫 How to reach me: santigutierrezsch@gmail.com
-- ⚡ Fun fact: [Interesting fact about yourself]
 
 ---
 
