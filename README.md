@@ -28,7 +28,7 @@ Hi there! I'm Santi, a passionate developer with a love for creating elegant sol
 </div>
 
 ---
-
+<!--
 ## 💼 Featured Projects
 
 <div align="center">
@@ -50,7 +50,7 @@ Hi there! I'm Santi, a passionate developer with a love for creating elegant sol
 </div>
 
 ---
-
+-->
 ## 🛠️ Skills & Technologies
 
 <details>
@@ -126,7 +126,7 @@ Hi there! I'm Santi, a passionate developer with a love for creating elegant sol
 
 ---
 
-## 🎵 Currently Vibing To
+## 🎵 Currently‼️🎧
 
 <div align="center">
   <a href="https://open.spotify.com/user/31w5g6yrzthlwmy7x7olnspaw5qu">
