@@ -1,12 +1,160 @@
+# 👨‍💻 Santi Gutierrez | Developer from Illinois
 
-# 💻 Tech Stack:
-![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=flat&logo=assemblyscript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=flat&logo=lua&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=flat&logo=ruby&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat&logo=rust&logoColor=white) ![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?style=flat&logo=alibabacloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=flat&logo=openstack&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=flat&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=flat&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=flat&logo=adobeindesign&logoColor=FF3366) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=flat&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=flat&logo=sketchup&logoColor=white) ![Invision](https://img.shields.io/badge/invision-FF3366?style=flat&logo=invision&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=flat&logo=apache-tomcat&logoColor=black) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=flat&logo=nVIDIA&logoColor=green) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Nix](https://img.shields.io/badge/NIX-5277C3.svg?style=flat&logo=NixOS&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat&logo=swift&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Ember](https://img.shields.io/badge/ember-1C1E24?style=flat&logo=ember.js&logoColor=#D04A37) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![SolidJS](https://img.shields.io/badge/SolidJS-2c4f7c?style=flat&logo=solid&logoColor=c8c9cb) ![Three js](https://img.shields.io/badge/threejs-black?style=flat&logo=three.js&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=flat&logo=web3.js&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=flat&logo=webpack&logoColor=black) ![Metero JS](https://img.shields.io/badge/meteorjs-%23d74c4c.svg?style=flat&logo=meteor&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=flat&logo=Meta&logoColor=white) ![OpenSea](https://img.shields.io/badge/OpenSea-%232081E2.svg?style=flat&logo=opensea&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat&logo=Raspberry-Pi) ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=flat&logo=Prezi&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=flat&logo=epicgames&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=flat&logo=ea&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat&logo=steam&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=flat&logo=xbox&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=flat&logo=unrealengine&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=flat&logo=riotgames&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=flat&logo=nVIDIA&logoColor=white) ![Sidequest](https://img.shields.io/badge/sidequest-%23101227.svg?style=flat&logo=sidequest&logoColor=white) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=flat&logo=Playstation&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=flat&logo=Ubisoft&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=santigutierrezsch&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=santigutierrezsch&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=santigutierrezsch&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;UI/UX+Enthusiast;Open+Source+Contributor&font=Fira%20Code&center=true&width=380&height=50">
+</div>
+
+## 🚀 About Me
+
+Hi there! I'm Santi, a passionate developer with a love for creating elegant solutions to complex problems. I enjoy working across the full tech stack and am always exploring new technologies to expand my skillset.
+
+- 🔭 I'm currently working on: [Project Name]
+- 🌱 I'm currently learning: [Technology/Skill]
+- 💬 Ask me about: Web Development, Cloud Architecture, or DevOps
+- 📫 How to reach me: santigutierrezsch@gmail.com
+- ⚡ Fun fact: [Interesting fact about yourself]
 
 ---
-[![](https://visitcount.itsvg.in/api?id=santigutierrezsch&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=santigutierrezsch&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://streak-stats.demolab.com?user=santigutierrezsch&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=santigutierrezsch&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+</div>
+
+---
+
+## 💼 Featured Projects
+
+<div align="center">
+  <a href="[Project URL]">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=santigutierrezsch&repo=[repo-name]&theme=dracula" />
+  </a>
+  <a href="[Project URL]">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=santigutierrezsch&repo=[repo-name]&theme=dracula" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="[Project URL]">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=santigutierrezsch&repo=[repo-name]&theme=dracula" />
+  </a>
+  <a href="[Project URL]">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=santigutierrezsch&repo=[repo-name]&theme=dracula" />
+  </a>
+</div>
+
+---
+
+## 🛠️ Skills & Technologies
+
+<details>
+  <summary><b>🔤 Programming Languages</b></summary>
+  <br/>
+  <div align="left">
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,python,php,ruby,java,cs,swift,kotlin,go,rust" />
+  </div>
+</details>
+
+<details>
+  <summary><b>🧰 Frameworks & Libraries</b></summary>
+  <br/>
+  <div align="left">
+    <img src="https://skillicons.dev/icons?i=react,angular,vue,nextjs,jquery,bootstrap,tailwind,sass,redux,nodejs,django,flask,fastapi" />
+  </div>
+</details>
+
+<details>
+  <summary><b>💾 Databases & Cloud Platforms</b></summary>
+  <br/>
+  <div align="left">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,firebase,graphql,aws,gcp,azure,heroku" />
+  </div>
+</details>
+
+<details>
+  <summary><b>🔧 Development Tools</b></summary>
+  <br/>
+  <div align="left">
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,kubernetes,npm,yarn,vscode,visualstudio" />
+  </div>
+</details>
+
+---
+
+## 📱 Connect With Me
+
+<div align="center">
+  <h3>Professional</h3>
+  <a href="https://www.linkedin.com/in/santiago-gutierrez-95478a342/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
+  <a href="mailto:santigutierrezsch@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
+  <a href="https://stackoverflow.com/users/30188177/santiago-gutierrez" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo" />
+  </a>
+  
+  <h3>Coding Platforms</h3>
+  <a href="https://codepen.io/santigutierrezsch" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo" />
+  </a>
+  <a href="https://codesandbox.io/u/santigutierrezsch" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Codesandbox&logo=codesandbox&label=&color=040404&logoColor=DBDBDB&labelColor=&style=for-the-badge" height="35" alt="codesandbox logo" />
+  </a>
+  <a href="https://dev.to/santigutierrezsch" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="devto logo" />
+  </a>
+  
+  <h3>Social</h3>
+  <a href="https://www.instagram.com/sgutierrezsch/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+  </a>
+  <a href="https://x.com/sgutierrezsch" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo" />
+  </a>
+  <a href="https://dribbble.com/santigutierrezsch" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Dribbble&logo=dribbble&label=&color=EA4C89&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="dribbble logo" />
+  </a>
+</div>
+
+---
+
+## 🎨 Creative Contributions
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/santigutierrezsch/santigutierrezsch/output/snake.svg" alt="Snake animation" />
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/santigutierrezsch/santigutierrezsch/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/santigutierrezsch/santigutierrezsch/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/santigutierrezsch/santigutierrezsch/output/pacman-contribution-graph.svg">
+  </picture>
+</div>
+
+---
+
+## 🎵 Currently Vibing To
+
+<div align="center">
+  <a href="https://open.spotify.com/user/31w5g6yrzthlwmy7x7olnspaw5qu">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31w5g6yrzthlwmy7x7olnspaw5qu&count=5" alt="Spotify recently played" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/santigutierrezsch/count.svg?" />
+  <p>Thanks for visiting! 👋</p>
+</div>
