@@ -50,7 +50,7 @@ Hi there! I'm Santi, a passionate developer with a love for creating elegant sol
 
 ---
 -->
-## 🛠️ Skills & Technologies
+## 🛠️ Skills & Technologies I'm Familliar With
 
 <details>
   <summary><b>🔤 Programming Languages</b></summary>
